@@ -13,7 +13,3 @@ I'm a passionate **Product Manager** in a cleantech startup with a keen interest
 
 ## 🌟 Goals
 As a dedicated product manager, I'm committed to create future AI applications that are impactful and accessible to everyone.
-## 📫 Get in Touch
-- Email: [SoChan](mailto:sophiachan@pinkpulse.page)
-
-Let's connect and make the future of AI bright and inclusive! ✨
