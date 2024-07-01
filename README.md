@@ -1,6 +1,4 @@
-# 👋 Hello, I'm [SoChan]!
-
-## 🚀 About Me
+## 🚀 Hello, I'm So!
 I'm a passionate **Product Manager** in a cleantech startup with a keen interest in AI and its transformative potential. My goal is to create AI applications that have a global impact, enhancing lives and driving innovation.
 
 ## 🌱 What I'm Working On
@@ -14,12 +12,8 @@ I'm a passionate **Product Manager** in a cleantech startup with a keen interest
 - 📈 **Data and PM Skills**: Continuously improving my data analysis and product management skills to better serve my projects and teams.
 
 ## 🌟 Goals
-As a dedicated product manager, I'm committed to:
-- Creating future AI applications that are impactful and accessible to everyone.
-- Driving innovation and sustainability in the tech industry.
-- Collaborating with talented professionals to push the boundaries of what's possible with AI.
-
+As a dedicated product manager, I'm committed to create future AI applications that are impactful and accessible to everyone.
 ## 📫 Get in Touch
-- Email: [Your Email Address](mailto:sophiachan@pinkpulse.page)
+- Email: [SoChan](mailto:sophiachan@pinkpulse.page)
 
 Let's connect and make the future of AI bright and inclusive! ✨
