@@ -4,7 +4,6 @@ I'm a passionate **Product Manager** in a cleantech startup with a keen interest
 - 🤖 **AI Agentic Project**: Developing intelligent agents that can autonomously perform complex tasks.
 - 🧠 **LLM Function Calling**: Exploring advanced techniques in large language models to improve their functionality and usefulness.
 - 🌍 **Low Carbon Training Projects**: Initiating and managing projects aimed at reducing the carbon footprint of AI training processes.
-
 ## 📚 What I'm Learning
 - 🔍 **Artificial Intelligence**: Deepening my understanding of AI principles and applications.
 - 🌐 **Large Language Models (LLMs)**: Investigating the latest advancements in LLMs to enhance their capabilities.
