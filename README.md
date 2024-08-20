@@ -6,6 +6,6 @@ I'm a passionate **Product Manager** in a cleantech startup with a keen interest
 - 🗨️ **Prompt Engineering**: Exploring Prompt Engineering with different LLMs to revolutionize AI interactions and create more intuitive user experiences.
 - 🌍 **Low Carbon Computing**: Initiating and managing projects aimed at reducing the carbon footprint of AI training processes.
 ## 📚 What I'm Learning
-- 🔍 **Artificial Intelligence**: Deepening my understanding of AI principles and applications.
 - 🌐 **Large Language Models (LLMs)**: Investigating the latest advancements in LLMs to enhance their capabilities.
+- 🔍 **Artificial Intelligence**: Deepening my understanding of AI principles and applications.
 - 📈 **Data and PM Skills**: Continuously improving my data analysis and product management skills to better serve my projects and teams.
