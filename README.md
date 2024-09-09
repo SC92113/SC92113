@@ -9,3 +9,5 @@ I'm a passionate **Product Manager** in a cleantech startup with a keen interest
 - 🔍 **Artificial Intelligence**: Deepening my understanding of AI principles and applications.
 - 🌐 **Large Language Models (LLMs)**: Investigating the latest advancements in LLMs to enhance their capabilities.
 - 📈 **Data and PM Skills**: Continuously improving my data analysis and product management skills to better serve my projects and teams.
+
+
