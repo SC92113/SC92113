@@ -1,7 +1,8 @@
 ## 🔮 Hello I'm So
 I'm a passionate **Product Manager** in a cleantech startup with a keen interest in AI and its transformative potential. My goal is to create future AI applications for different sectors that have a global impact, enriching lives and driving innovation to everyone.
-## 🌱 What I'm Working On
-- 🛠️ **AI Communication Agent (Coming Soon)**
+## 🌱 Readt to launch
+- 🛠️ **AI Communication Agent for Pefect Relationships**
+  - **([Soulo website](https://www.pinkpulse.page/))**
 ## 📚 What I've Worked On
 - 🤖 **AI Agentic SyStem**: Developing intelligent agents that can autonomously perform complex tasks.
 - 🧠 **LLM Function Calling**: Exploring advanced techniques in large language models to improve their functionality and usefulness.
