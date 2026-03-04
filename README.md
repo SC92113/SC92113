@@ -1,7 +1,7 @@
 ## 🔮 Hello I'm So
 I'm a passionate **Product Manager** in a cleantech startup with a keen interest in AI and its transformative potential. My goal is to create future AI applications for different sectors that have a global impact, enriching lives and driving innovation to everyone.
 
-## 🌱 Availbale Now in App Store and Google Play
+## 🌱 Soulo Agent is Availbale Now
 🛠️ **AI Communication Agent for Pefect Relationships: Transform Words into Understandable Connections.**
 
 To learn more, check these out: 
