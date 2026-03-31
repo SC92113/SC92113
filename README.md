@@ -5,7 +5,7 @@ I'm a passionate **Product Manager** in a cleantech startup with a keen interest
 🛠️ **AI Communication Agent for Pefect Relationships: Transform Words into Understandable Connections.**
 
 To learn more, check these out: 
-- **[Soulo website](https://www.pinkpulse.page/)**
+- **[Soulo website](https://www.pinkpulse.page/souloagent)**
 - **[Soulo blog](https://blog.pinkpulse.page/)**
 
 ## 📚 What I've Worked On
