@@ -14,6 +14,5 @@ Sometimes the result isn't the answer — your reaction to it helps reveal what 
 
 ## 📚 Previous Work & Areas I've Explored
 - 🤖 **AI Agentic Systems** — Developing intelligent agents that can autonomously perform complex tasks.
-- 🧠 **LLM Function Calling** — Exploring ways to connect large language models with tools and real-world actions.
 - 🌍 **Low-Carbon Computing** — Initiating and managing projects focused on reducing the carbon footprint of AI and computing workloads.
 - 🛠️ **Product Management** — Product strategy, UX, experimentation, development, launch, and iteration.
