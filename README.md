@@ -1,14 +1,19 @@
 ## 🔮 Hello I'm So
-I'm a passionate **Product Manager** in a cleantech startup with a keen interest in AI and its transformative potential. My goal is to create future AI applications for different sectors that have a global impact, enriching lives and driving innovation to everyone.
+I'm a passionate **Product Manager** in a cleantech startup with a strong interest in **AI, product innovation, and building useful digital products**.
+My goal is to create products and AI applications across different sectors that can have a global impact — helping people simplify everyday tasks, make better decisions, and interact with technology in more useful ways.
 
-## 🌱 Soulo Agent is Availbale Now
-🛠️ **AI Communication Agent for Pefect Relationships: Transform Words into Understandable Connections.**
+## 🎲 RollChoice — Now Live
+**Decide, then move.**
+[**RollChoice**](https://rollchoice.com) is a decision-making web app designed to help people get unstuck on everyday choices without overthinking.
+Flip a coin. Roll the dice. Spin the wheel. Draw a stick. Or use **Worth it** to think through whether something is actually worth doing.
+Sometimes the result isn't the answer — your reaction to it helps reveal what you really want.
+👉 [**Try RollChoice**](https://rollchoice.com)
 
-To learn more, check these out: 
-- **[Soulo website](https://www.pinkpulse.page/souloagent)**
+## 💬 Soulo Agent
+[**Learn more Soulo Agent**](https://www.pinkpulse.page/souloagent) is an AI communication assistant designed to help people express themselves more clearly and create better understanding in relationships.
 
-## 📚 What I've Worked On
-- 🤖 **AI Agentic SyStem**: Developing intelligent agents that can autonomously perform complex tasks.
-- 🧠 **LLM Function Calling**: Exploring advanced techniques in large language models to improve their functionality and usefulness.
-- 🌍 **Low Carbon Computing**: Initiating and managing projects aimed at reducing the carbon footprint of AI training processes.
-- 🛠️ **Many Other PM Work**
+## 📚 Previous Work & Areas I've Explored
+- 🤖 **AI Agentic Systems** — Developing intelligent agents that can autonomously perform complex tasks.
+- 🧠 **LLM Function Calling** — Exploring ways to connect large language models with tools and real-world actions.
+- 🌍 **Low-Carbon Computing** — Initiating and managing projects focused on reducing the carbon footprint of AI and computing workloads.
+- 🛠️ **Product Management** — Product strategy, UX, experimentation, development, launch, and iteration.
