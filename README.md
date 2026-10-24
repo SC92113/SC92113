@@ -10,8 +10,8 @@ Sometimes the result isn't the answer — your reaction to it helps reveal what 
 
 👉 [**Try RollChoice**](https://rollchoice.com)
 
-## 💬 Soulo Agent
-[**Learn more Soulo Agent**](https://play.google.com/store/apps/details?id=com.scsc0113.Soulo) is an AI communication assistant designed to help people express themselves more clearly and create better understanding in relationships.
+## 💬 Soulo Agent (sunsetted)
+Soulo Agent is an AI communication assistant designed to help people express themselves more clearly and create better understanding in relationships.
 
 ## 📚 Previous Work & Areas I've Explored
 - 🤖 **AI Agentic Systems** — Developing intelligent agents that can autonomously perform complex tasks.
